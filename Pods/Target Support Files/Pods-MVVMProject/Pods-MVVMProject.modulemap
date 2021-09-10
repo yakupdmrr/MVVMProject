@@ -1,0 +1,6 @@
+framework module Pods_MVVMProject {
+  umbrella header "Pods-MVVMProject-umbrella.h"
+
+  export *
+  module * { export * }
+}

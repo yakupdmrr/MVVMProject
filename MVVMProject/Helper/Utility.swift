@@ -16,6 +16,6 @@ class Utility {
         let okButton = UIAlertAction(title: "Ok", style: UIAlertAction.Style.default, handler: nil)
         alert.addAction(okButton)
         uiViewController.present(alert, animated: true, completion: nil)
-        
+            
     }
 }
